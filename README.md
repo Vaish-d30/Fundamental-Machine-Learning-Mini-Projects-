@@ -1,6 +1,6 @@
 # Fundamental Machine Learning Mini-Projects
 
-Welcome to the "Fundamental Machine Learning Mini-Projects" repository. This repository contains five essential machine learning projects, each designed to tackle a specific problem using different datasets sourced from the YBI Foundation GitHub page. These projects serve as an excellent starting point for understanding and applying machine learning techniques.
+Welcome to the "Fundamental Machine Learning Mini-Projects" repository. This repository contains five essential machine learning projects, each designed to tackle a specific problem using different datasets sourced from the YBI Foundation GitHub page. These projects serve as an excellent starting point for understanding and applying machine learning techniques. 
 
 ## Projects Overview
 
